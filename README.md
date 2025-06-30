@@ -1,6 +1,6 @@
 # <h2 align=center>Octra Wallet Generator</h2>
-- Buy VPS di : [t.me/skuycloud](t.me/skuycloud)
-- Trakteer buat buy Kopi : https://trakteer.id/brrrskuy/tip `<---`
+- Buy VPS di : [Skuy Vibes](t.me/skuyvibes)
+- Trakteer buy Kopi : https://trakteer.id/brrrskuy/tip `<---`
 
 
 ## 1.Install Component
